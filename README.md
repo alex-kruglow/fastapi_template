@@ -1,4 +1,4 @@
-# Fast api template
+# FastAPI template
 This one is available a clean template of FastAPI application.
 
 How to run:
