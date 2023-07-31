@@ -1,6 +1,10 @@
 # FastAPI template
 This one is available a clean template of FastAPI application.
 
+* [Fastapi](https://fastapi.tiangolo.com/)
+* [SQLAlchemy](https://www.sqlalchemy.org/)
+* [Alembic](https://alembic.sqlalchemy.org/en/latest/)
+
 How to run:
 ```
 python3 -m venv env;
